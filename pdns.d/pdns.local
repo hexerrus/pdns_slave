@@ -1,0 +1,5 @@
+gmysql-host=127.0.0.1
+gmysql-user=poweradmin
+gmysql-password=yourgeneratedpasshere
+gmysql-dbname=powerdns
+gmysql-dnssec=yes
